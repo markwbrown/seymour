@@ -1,8 +1,8 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="seed_me.jpeg" alt="AI Generated Art of Audrey II from Little Shop of Horrors with a rotary phone" width="180">
+  <a href="https://github.com/markwbrown/seymour">
+    <img src="seed_me.jpg" alt="AI Generated Art of Audrey II from Little Shop of Horrors with a rotary phone" width="180">
   </a>
 
 <h3 align="center">Seymour</h3>
