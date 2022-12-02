@@ -18,7 +18,6 @@ with open("docker-compose.yml") as dockerConfig:
     # get postgres env from project config
     load_dotenv(os.path.join(BASEDIR, 'docker/local/postgres/.env'))
     POSTGRES_HOST = 'localhost'
-    POSTGRES_PORT = os.getenv('POSTGRES_PORT')
     POSTGRES_USER = os.getenv('POSTGRES_USER')
     POSTGRES_PASSWORD = os.getenv('POSTGRES_PASSWORD')
 
