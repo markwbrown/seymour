@@ -20,7 +20,7 @@
 1. drop the main.py and requirements.txt into your project root.
 2. copy .sample_env to .env and update with your desired 2fa variables
 3.  `pip install`
-4. `python main.py`. The script itself isn't meant to apply to database schemas not 
+4. `python main.py`
 
 ### Prerequisites
 
@@ -45,6 +45,7 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+6. Come work with me at [Summit Technology Consulting Group](https://thesummitgrp.com)
 
 
 <!-- LICENSE -->
