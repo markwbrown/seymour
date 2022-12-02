@@ -2,13 +2,13 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="seed_me.jpeg" alt="AI Generated Art of Audrey II from Little Shop of Horrors dialing a pay phone" width="180">
+    <img src="seed_me.jpeg" alt="AI Generated Art of Audrey II from Little Shop of Horrors with a rotary phone" width="180">
   </a>
 
 <h3 align="center">Seymour</h3>
 
   <p align="left">
-    SEED ME! Seymour is a tiny python script to seed a postgres database running in docker on one's local based upon values defined in the .env file in a project's root. It grabs the port docker exposes for a container running postgres from docker-config.yml and updates values in a table. It isn't rocket surgery, but it was a handy tool to quickly get values plugged into a database for testing a two-factor authentication flow refactor. It should serve as a useful starting point to get variables from a .env file into a database. The project name came from Audrey II's "FEED ME' line to Seymour in Little Shop of Horrors because we're seeding a database and the image came from DALL-E with the prompt "Audrey II from Little Shop of Horrors making a phone call on a pay phone.", because you know... two factor. 
+    SEED ME! Seymour is a tiny python script to seed a postgres database running in docker on one's local based upon values defined in the .env file in a project's root. It grabs the port docker exposes for a container running postgres from docker-config.yml and updates values in a table. It isn't rocket surgery, but it was a handy tool to quickly get values plugged into a database for testing a two-factor authentication flow refactor. It should serve as a useful starting point to get variables from a .env file into a database. The project name came from Audrey II's "FEED ME' line to Seymour in Little Shop of Horrors because we're seeding a database and the image came from DALL-E with the prompt "Audrey 2 from Little Shop of Horrors with a rotary phone.", because you know... two factor. 
   </p>
 </div>
 
